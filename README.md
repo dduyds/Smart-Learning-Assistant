@@ -23,10 +23,10 @@ Smart Learning Assistant is an AI solution designed to empower learners in navig
 ## 🚀 Demonstration
 
 - Click the Video below for full demo.
-
+- 
 <p align="center">
-  <a href="https://youtu.be/m7VgZhXtlOE" target="_blank">
-    <img src="https://img.youtube.com/vi/m7VgZhXtlOE/hqdefault.jpg" alt="Video Demo" width="60%">
+  <a href="https://youtu.be/9VBbaElARM8" target="_blank">
+    <img src="https://img.youtube.com/vi/9VBbaElARM8/hqdefault.jpg" alt="Video Demo" width="60%">
   </a>
 </p>
 <p align="center"><em>(Video Demo)</em></p>
