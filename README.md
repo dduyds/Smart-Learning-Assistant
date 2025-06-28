@@ -4,7 +4,7 @@
 
 ## 🔍 Overview
 
-Smart Learning Assistant is a full-stack AI solution designed to empower learners in navigating complex topics independently. This tool combines Retrieval-Augmented Generation (RAG) techniques with an agentic multi-agent architecture to deliver two core functionalities:
+Smart Learning Assistant is an AI solution designed to empower learners in navigating complex topics independently. This tool combines Retrieval-Augmented Generation (RAG) techniques with an agentic multi-agent architecture to deliver two core functionalities:
 
 1. **RAG Bot**: Enables accurate document-based question answering using hybrid search on uploaded PDFs, DOCX files, and external URLs.
 2. **Agentic System**: Uses intelligent agents to discover online resources, plan learning paths, and provide step-by-step study roadmaps based on user's topic.
