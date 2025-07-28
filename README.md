@@ -16,24 +16,24 @@ An AI-powered tool designed to support self-directed learning through document-b
 
 ### 🔍 Hybrid RAG Retrieval
 - Supports multiple formats: **PDFs**, **DOCX**, and **web links**.
-- Performs **hybrid search** combining **semantic vectors** and **keywords** for accurate and context-aware answers
+- Performs **hybrid search** combining **semantic vectors** and **keywords** for accurate and context-aware answers.
 
 ### 🧠 Graph-Based Study Planner
 - Built using a **LangGraph pipeline**, where each node represents a specialized task:
-  - Research relevant resources
-  - Generate structured learning materials
-  - Curate additional reference content
-- Each node integrates **LLMs and tools**, simulating agentic behavior
+  - Research relevant resources.
+  - Generate structured learning materials.
+  - Curate additional reference content.
+- Each node integrates **LLMs and tools**, simulating agentic behavior.
 
 ### 🖥️ Interactive User Interface
-- Developed with **Streamlit** for real-time interaction and document upload
-- Provides a simple, accessible experience for learners and educators
+- Developed with **Streamlit** for real-time interaction and document upload.
+- Provides a simple, accessible experience for learners and educators.
 
 
 ## 💬 Use Cases
-- Ask questions about content inside your documents
-- Get a structured study roadmap on any technical topic
-- Automatically gather online tutorials, documentation, and practice problems
+- Ask questions about content inside your documents.
+- Get a structured study roadmap on any technical topic.
+- Automatically gather online tutorials, documentation, and practice problems.
 
 
 ## 🚀 Demonstration
