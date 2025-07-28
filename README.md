@@ -15,7 +15,7 @@ An AI-powered tool designed to support self-directed learning through document-b
 ## ✨ Key Features
 
 ### 🔍 Hybrid RAG Retrieval
-- Supports multiple formats: **PDFs**, **DOCX**, and **web links**
+- Supports multiple formats: **PDFs**, **DOCX**, and **web links**.
 - Performs **hybrid search** combining **semantic vectors** and **keywords** for accurate and context-aware answers
 
 ### 🧠 Graph-Based Study Planner
@@ -23,7 +23,7 @@ An AI-powered tool designed to support self-directed learning through document-b
   - Research relevant resources
   - Generate structured learning materials
   - Curate additional reference content
-- Each node integrates **LLMs and tools**, simulating agentic behavior without full autonomy
+- Each node integrates **LLMs and tools**, simulating agentic behavior
 
 ### 🖥️ Interactive User Interface
 - Developed with **Streamlit** for real-time interaction and document upload
