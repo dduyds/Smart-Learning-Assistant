@@ -1,23 +1,39 @@
-# 📚 Smart Learning Assistant
+# 📚 Smart Learning Assistant  
+An AI-powered tool designed to support self-directed learning through document-based Q&A and guided study planning.
 
-**An AI-powered tool designed to support self-directed learning through document-based Q&A and personalized learning path planning.**
+---
 
 ## 🔍 Overview
 
-Smart Learning Assistant is an AI solution designed to empower learners in navigating complex topics independently. This tool combines Retrieval-Augmented Generation (RAG) techniques with an agentic graph pipeline architecture to deliver two core functionalities:
+**Smart Learning Assistant** helps users independently explore complex topics by combining two core mechanisms:
 
-1. **RAG Bot**: Enables accurate document-based question answering using hybrid search on uploaded PDFs, DOCX files, and external URLs.
-2. **Agentic System**: Uses intelligent agents to discover online resources, plan learning paths, and provide step-by-step study roadmaps based on user's topic.
+- **RAG-based Q&A Bot**: Leverages **Retrieval-Augmented Generation (RAG)** to answer questions based on uploaded PDFs, DOCX files, or external URLs using hybrid semantic + keyword search.
+
+- **Graph-based Learning Planner**: Implements a structured **graph pipeline** that simulates agent-like behavior, guiding users through online resource discovery and personalized learning path generation.
 
 
 ## ✨ Key Features
-- **🔍 Hybrid RAG Retrieval**: 
-	- Multi-format document support, such as PDFs, DOCX files, and web links.
-	- Combines semantic and keyword-based (keyword + vector)  search to enhance answer accuracy.
-- **🤖 Agentic System**: LLMs collaborate with tools in graph pipeline to:
-  - Search for relevant topics and resources.
-  - Build personalized study plans.
-- **🖥️ User Interface**: Interactive Streamlit frontend for ease of use and real-time interaction.
+
+### 🔍 Hybrid RAG Retrieval
+- Supports multiple formats: **PDFs**, **DOCX**, and **web links**
+- Performs **hybrid search** combining **semantic vectors** and **keywords** for accurate and context-aware answers
+
+### 🧠 Graph-Based Study Planner
+- Built using a **LangGraph pipeline**, where each node represents a specialized task:
+  - Research relevant resources
+  - Generate structured learning materials
+  - Curate additional reference content
+- Each node integrates **LLMs and tools**, simulating agentic behavior without full autonomy
+
+### 🖥️ Interactive User Interface
+- Developed with **Streamlit** for real-time interaction and document upload
+- Provides a simple, accessible experience for learners and educators
+
+
+## 💬 Use Cases
+- Ask questions about content inside your documents
+- Get a structured study roadmap on any technical topic
+- Automatically gather online tutorials, documentation, and practice problems
 
 
 ## 🚀 Demonstration
